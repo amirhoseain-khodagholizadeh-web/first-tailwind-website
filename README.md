@@ -1,9 +1,9 @@
 # first tailwind project 
 
-![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/first-tailwind-website/blob/main/assets/img/Capture.JPG)
-![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/first-tailwind-website/blob/main/assets/img/Capture2.JPG)
+![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/first-tailwind-website/blob/main/img/Capture.JPG)
+![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/first-tailwind-website/blob/main/img/Capture2.JPG)
 
-![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/first-tailwind-website/blob/main/assets/img/Capture3.JPG)
+![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/first-tailwind-website/blob/main/img/Capture3.JPG)
 
 -🔗 [Demo Project](https://amirhoseain-khodagholizadeh-web.github.io/first-tailwind-website/)
 
