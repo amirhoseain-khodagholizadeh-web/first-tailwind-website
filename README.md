@@ -1,15 +1,15 @@
-# hamrah mechanic website 
+# first tailwind project
 
-![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/hamrah-mechanic-website/blob/main/img/Capture.JPG)
-![viewfinal](hhttps://github.com/amirhoseain-khodagholizadeh-web/hamrah-mechanic-website/blob/main/img/Capture2.JPG)
+![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/first-tailwind-website/blob/main/img/Capture.JPG)
+![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/first-tailwind-website/blob/main/img/Capture2.JPG)
 
-![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/hamrah-mechanic-website/blob/main/img/Capture3.JPG)
+![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/first-tailwind-website/blob/main/img/Capture3.JPG)
 
--🔗 [Demo Project](https://amirhoseain-khodagholizadeh-web.github.io/hamrah-mechanic-website/)
+-🔗 [Demo Project](https://amirhoseain-khodagholizadeh-web.github.io/first-tailwind-website/)
 
 - Developed by amirhoseain khodagholizadeh
 
-- Created - 2025/6
+- Created - 2025/5
 
 - Technologies Used - Html , css , tailwind
 
