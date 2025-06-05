@@ -5,7 +5,7 @@
 
 ![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/first-tailwind-website/blob/main/img/Capture3.JPG)
 
--🔗 [Demo Project](https://amirhoseain-khodagholizadeh-web.github.io/first-tailwind-website/)
+-🔗 [Demo Project](https://amirhoseain-khodagholizadeh-web.github.io/hamrah-mechanic-website/)
 
 - Developed by amirhoseain khodagholizadeh
 
